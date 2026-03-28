@@ -74,38 +74,6 @@ Positive
 
 Negative
 
-⚙️ Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/your-username/Sentiment-Analysis-NLP.git
-
-Navigate to the project folder:
-
-cd Sentiment-Analysis-NLP
-
-Install required libraries:
-
-pip install pandas numpy nltk scikit-learn
-
-Run the notebook:
-
-Open Jupyter Notebook or Google Colab
-
-Run all cells
-
-📈 Model Performance
-
-Accuracy: ~85% (may vary)
-
-Evaluation metrics:
-
-Precision
-
-Recall
-
-F1-score
-
 🧪 Example
 
 Input:
